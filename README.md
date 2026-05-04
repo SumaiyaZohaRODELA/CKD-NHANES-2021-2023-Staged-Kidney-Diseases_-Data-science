@@ -1,0 +1,2 @@
+# CKD-NHANES-2021-2023-Staged-Kidney-Diseases_-Data-science
+CKD-NHANES 2021-2023: Staged Kidney Diseases           Chronic Kidney Disease (CKD) is one of the most underdiagnosed conditions in the world. As of 2023, an estimated 788 million adults are affected globally yet most are unaware they have the disease until it has reached a dangerous stage. CKD is now the 9th leading cause of death worldwide
